@@ -1,5 +1,4 @@
 ﻿@page "/"
-
 @using Microsoft.AspNetCore.SignalR.Client
 @inject NavigationManager Navigation
 @implements IAsyncDisposable
@@ -20,3 +19,24 @@
 	</label>
 
 </div>
+<button @onclick="Send" disabled="@(!IsConnected)">Send </button>
+
+<hr>
+
+<ul id="messageList">
+	@foreach (var message in message)
+	{
+		<li>@message</li>
+	}
+</ul>
+
+@code {
+	private HubConnection? hubConnection;
+	private List<string> messagges = new List<string>();
+	private string? userInput;
+	private string? messsageInput;
+
+	protected override async Task OnUnitializedAsync()
+}
+
+
