@@ -12,35 +12,35 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 323535532,
+        "HashCode": 1826279535,
         "Kind": "Components.Component",
-        "Name": "BlazorServerSignalRApp.Pages.Counter",
+        "Name": "BlazorServerSignalRApp.Pages.Index",
         "AssemblyName": "BlazorServerSignalRApp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Counter"
+            "TagName": "Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorServerSignalRApp.Pages.Counter"
+          "Common.TypeName": "BlazorServerSignalRApp.Pages.Index"
         }
       },
       {
-        "HashCode": 1143527986,
+        "HashCode": 981724937,
         "Kind": "Components.Component",
-        "Name": "BlazorServerSignalRApp.Pages.Counter",
+        "Name": "BlazorServerSignalRApp.Pages.Index",
         "AssemblyName": "BlazorServerSignalRApp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorServerSignalRApp.Pages.Counter"
+            "TagName": "BlazorServerSignalRApp.Pages.Index"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorServerSignalRApp.Pages.Counter",
+          "Common.TypeName": "BlazorServerSignalRApp.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -78,121 +78,35 @@
         }
       },
       {
-        "HashCode": 1826279535,
+        "HashCode": 323535532,
         "Kind": "Components.Component",
-        "Name": "BlazorServerSignalRApp.Pages.Index",
+        "Name": "BlazorServerSignalRApp.Pages.Counter",
         "AssemblyName": "BlazorServerSignalRApp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Index"
+            "TagName": "Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorServerSignalRApp.Pages.Index"
+          "Common.TypeName": "BlazorServerSignalRApp.Pages.Counter"
         }
       },
       {
-        "HashCode": 981724937,
+        "HashCode": 1143527986,
         "Kind": "Components.Component",
-        "Name": "BlazorServerSignalRApp.Pages.Index",
+        "Name": "BlazorServerSignalRApp.Pages.Counter",
         "AssemblyName": "BlazorServerSignalRApp",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "BlazorServerSignalRApp.Pages.Index"
+            "TagName": "BlazorServerSignalRApp.Pages.Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorServerSignalRApp.Pages.Index",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1092885710,
-        "Kind": "Components.Component",
-        "Name": "BlazorServerSignalRApp.App",
-        "AssemblyName": "BlazorServerSignalRApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorServerSignalRApp.App"
-        }
-      },
-      {
-        "HashCode": -884346923,
-        "Kind": "Components.Component",
-        "Name": "BlazorServerSignalRApp.App",
-        "AssemblyName": "BlazorServerSignalRApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorServerSignalRApp.App"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorServerSignalRApp.App",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -643597731,
-        "Kind": "Components.Component",
-        "Name": "BlazorServerSignalRApp.Shared.SurveyPrompt",
-        "AssemblyName": "BlazorServerSignalRApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorServerSignalRApp.Shared.SurveyPrompt"
-        }
-      },
-      {
-        "HashCode": -1753599905,
-        "Kind": "Components.Component",
-        "Name": "BlazorServerSignalRApp.Shared.SurveyPrompt",
-        "AssemblyName": "BlazorServerSignalRApp",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "BlazorServerSignalRApp.Shared.SurveyPrompt"
-          }
-        ],
-        "BoundAttributes": [
-          {
-            "Kind": "Components.Component",
-            "Name": "Title",
-            "TypeName": "System.String",
-            "Metadata": {
-              "Common.PropertyName": "Title"
-            }
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "BlazorServerSignalRApp.Shared.SurveyPrompt",
+          "Common.TypeName": "BlazorServerSignalRApp.Pages.Counter",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -293,6 +207,59 @@
         }
       },
       {
+        "HashCode": -643597731,
+        "Kind": "Components.Component",
+        "Name": "BlazorServerSignalRApp.Shared.SurveyPrompt",
+        "AssemblyName": "BlazorServerSignalRApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorServerSignalRApp.Shared.SurveyPrompt"
+        }
+      },
+      {
+        "HashCode": -1753599905,
+        "Kind": "Components.Component",
+        "Name": "BlazorServerSignalRApp.Shared.SurveyPrompt",
+        "AssemblyName": "BlazorServerSignalRApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorServerSignalRApp.Shared.SurveyPrompt"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "Title",
+            "TypeName": "System.String",
+            "Metadata": {
+              "Common.PropertyName": "Title"
+            }
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorServerSignalRApp.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": -1288071409,
         "Kind": "Components.Component",
         "Name": "BlazorServerSignalRApp.Shared.NavMenu",
@@ -322,6 +289,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "BlazorServerSignalRApp.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 1092885710,
+        "Kind": "Components.Component",
+        "Name": "BlazorServerSignalRApp.App",
+        "AssemblyName": "BlazorServerSignalRApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorServerSignalRApp.App"
+        }
+      },
+      {
+        "HashCode": -884346923,
+        "Kind": "Components.Component",
+        "Name": "BlazorServerSignalRApp.App",
+        "AssemblyName": "BlazorServerSignalRApp",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "BlazorServerSignalRApp.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "BlazorServerSignalRApp.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
