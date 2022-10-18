@@ -6,7 +6,7 @@ namespace BlazorServerSignalRApp.Server.Hubs
     {
         public async Task SendMessage(string user, string message)
         {
-            await Clients.All.SendAsync("ReceuveMessage");
+            await Clients.All.SendAsync("ReceuveMessage, user, message");
         }
     }
 }
